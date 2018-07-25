@@ -3,6 +3,8 @@
 This is a collection of Angular 2 interview questions I've found online, along with (hopefully) correct answers for most of them. Feel free to contribute / send corrections.
 I'm adding in some Angular 4 and 5 questions now.
 
+## First Finish this then move on to More-Detailed-README.md
+
 Note: "PA" stands for Possible Answer (one of many valid ones).
 
 ## Template Syntax Questions
