@@ -1,3 +1,5 @@
+# More to come
+
 * Explain the difference between var, let and const key words.
 * Could you make sure a const value is garbage collected?
   Yes, but...
