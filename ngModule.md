@@ -67,3 +67,4 @@
   Prove it for yourself. Run the live example. Modify the SharedModule so that it provides the UserService rather than the CoreModule. Then toggle between the "Contact" and "Heroes" links a few times. The username goes bonkers as the Angular creates a new UserService instance each time.
 
   https://angular.io/docs/ts/latest/cookbook/ngmodule-faq.html#!#q-what-to-export
+
