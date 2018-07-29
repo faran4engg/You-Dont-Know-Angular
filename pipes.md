@@ -19,3 +19,4 @@ Async pipe knows about the lifespan of the component and unscubscribes from the 
 
   * Cannot use the input value to determine if the output will change.
   * Cannot be shared because the internal state can be affected from outside.
+
