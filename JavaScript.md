@@ -31,3 +31,4 @@ doStuff(...args);
 
 With the spread operator we can avoid apply all together and simply call the function with the spread operator. [Read more...](https://davidwalsh.name/spread-operator).
 Note: although there it looks simpler, I think this is less readable at the moment since more developers are familiar with apply. 
+
