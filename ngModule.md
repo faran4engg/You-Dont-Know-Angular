@@ -1,3 +1,4 @@
+
 * What is the purpose of NgModule?
   
   NgModule helps us to organize our components, directives and services into a logical unit, each focused on a feature.
